@@ -45,6 +45,12 @@ The AWS cloud migration not only improved performance but also optimized costs t
 
 ## VI. Conclusion
 Navigating the growth of a startup demands strategic leadership aligned with core principles. By prioritizing customer needs, taking ownership, fostering innovation, and embracing transformative shifts, I successfully led the development team through a critical Lenovo deal, expanded its capabilities, enhanced infrastructure, and fueled financial growth. This journey underscores the importance of combining technical acumen with leadership principles to drive success in the dynamic landscape of startup development.
-<img src="testimonials1.png" alt="alt text" width="500"/>
+<br><br>
 
+**Here is the feedback from the Director of Digital Transformation Services at Lenovo regarding this achievement**
+<br><img src="testimonials1.png" alt="alt text" width="500"/>
+
+
+<br><br>
+## Let's talk
 ## Your organization could be encountering comparable challenges. Let's engage in a discussion. <br><a href="https://awsazureconsult.com">Visit my profile</a> or reach out via email at pierremathieu@awsazureconsult.com for further insights and information.
