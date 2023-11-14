@@ -1,6 +1,6 @@
 # Scaling and Transforming a Startup: A Leadership Journey
 
-<img src="dev-org-chart.jpeg" alt="alt text" width="400"/>
+<img src="dev-org-chart.jpeg" alt="alt text" width="500"/>
 
 ## Overview
 This document outlines my leadership journey and the strategic processes employed to grow and transform a startup focused on IT asset and contract management. As the head of the development, I navigated the challenges of a critical project with Lenovo, scaling the development team, enhancing infrastructure, and achieving financial growth.

@@ -1,4 +1,4 @@
-# AWS Migration with Optimization. 
+# AWS Migration with Optimization 
 **Solution:** Customer Profile Management 
 ## Introduction
 Welcome to the AWS Migration with Optimization project! This documentation serves as a comprehensive guide to the migration process, detailing best practices and strategies for leveraging Amazon Web Services (AWS) to enhance efficiency and performance.
