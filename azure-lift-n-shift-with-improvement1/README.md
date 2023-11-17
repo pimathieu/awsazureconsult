@@ -59,7 +59,7 @@ Azure Monitor provided real-time insights into application and infrastructure pe
 **7. Increased System Reliability:** <br>
 The combination of Application Gateway, Azure Functions, and AKS contributed to increased system reliability, ensuring consistent and resilient service delivery.
 
-## onclusion
+## Conclusion
 The successful execution of this Azure migration and optimization project not only achieved seamless cloud adoption but also brought about significant improvements in scalability, performance, and cost-effectiveness. By strategically leveraging Azure services such as Redis, Azure Functions, AKS, Application Gateway, API Manager, VMs, SQL MI, and Azure Monitor, the project stands as a testament to the transformative impact of embracing cloud-native solutions on overall IT infrastructure and application landscapes.
 
 
