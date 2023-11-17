@@ -1,4 +1,4 @@
-# Azure VM Rehosting for FinTech: A Microsoft Client Case Study 
+# Azure VM Rehosting for FinTech: Client Case Study of a client leveraging Azure. 
 
 ## Introduction
 Welcome to the comprehensive documentation detailing the successful Azure VM rehosting project executed for our esteemed client in the financial technology (FinTech) sector. In this case study, we delve into the intricacies of migrating and rehosting virtual machines (VMs) to Microsoft Azure, outlining the strategic approach, challenges overcome, and the resultant benefits realized.
