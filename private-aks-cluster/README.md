@@ -2,6 +2,8 @@
 
  ## The deployment of a private Azure Kubernetes Services (AKS) cluster, inclusive of essential components like a storage account, virtual network peering, and private endpoints. The implementation was orchestrated through a meticulously structured Terraform script featuring various modules designed for integration into the main.tf file. These modules encapsulated key elements crucial for the Azure environment, showcasing a methodical and well-coordinated approach to infrastructure deployment.
  
+
+<img src="poc-private-aks.jpeg" alt="alt text" width="600"/><br>
 ### The modules included:
 - **aks:** Configured Azure Kubernetes Service to provide a scalable and managed Kubernetes environment.
 - **bastion_host:** Implemented a bastion host for secure access to the Azure infrastructure.
